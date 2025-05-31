@@ -357,48 +357,7 @@ elif current_section == "💼 Professional Experience":
 elif current_section == "📝 Cover Letter":
     st.markdown('<h2 class="section-header">Cover Letter for Actico</h2>', unsafe_allow_html=True)
     
-    st.markdown("""
-    <div class="highlight-box">
-        <h3>Guten Tag</h3>
-        
-        As a Computer Science student specializing in AI & ML, I was thrilled to discover the opportunity at Actico. Your work in decision automation and AI-driven solutions aligns perfectly with my technical skills, but beyond that, I have a besondere Verbindung zu Deutschland that makes this application especially meaningful.
-        
-        In 2019, I attended a PASCH youth camp in Sankt Peter-Ording, where I immersed myself in German culture, earned the title "Quatscköpfer" (thanks to my B1.2 class! - the highest batch in the camp), and fell in love with An der Nordseeküste sing-alongs. A delayed flight gave me a day in Zurich, a serendipitous start to a journey that deepened my appreciation for German precision and Werwolf games that helped me understand teamwork. Amidst the monotony of quarantine, little did I know that my life was about to take an exciting turn when a notification popped up on my phone- ‘Congratulations! You have topped German FIT 2.’ As a previous PASCH Scholar, I eagerly anticipated yet another youth camp experience that would further enhance my intercultural skills. However, due to the pandemic, the camp was replaced with a practicum on Artificial Intelligence. This is where I discovered my passion for technology through the role of an AI apprentice that led me to pursue AI & ML engineering. I interned as a Product Design Intern at Dr. Oetker India where I collaborated with the design team to perform market research and create new logos for dips and sauces that increased viewership in the market. My 4+ internship experiences, coupled with my B2 level of German speaking, would help me understand the product, client requirements and communicate with my team.
-        
-        <p>My technical journey perfectly aligns with Actico's focus on intelligent automation and decision management. 
-        As the FIT 2 German examination topper, I secured early recognition that led to a product internship at 
-        Dr. Oetker - demonstrating how my German connection opens professional opportunities in meaningful ways. 
-        My AI/ML expertise, developed through AWS DeepRacer mastery (where I learned reinforcement learning fundamentals), 
-        Udacity AI scholarship completion, and participation in IIITD's Artificial Intelligence Summer School, provides 
-        me with practical knowledge of federated learning, coresets, and ethical AI considerations - all directly 
-        relevant to modern decision automation systems.</p>
-        
-        <p>What makes me particularly excited about Actico is the opportunity to work with an entirely German team, 
-        allowing me to utilize my cultural understanding and language skills while contributing to cutting-edge 
-        decision automation technology. My diverse internship experience at IIM (management research) and DRDO 
-        (defense technology) has prepared me to tackle complex challenges with both analytical rigor and creative 
-        problem-solving - exactly the mindset needed for intelligent business automation.</p>
-        
-        <p>The evolution from my PASCH camp experience to becoming a technical professional represents more than just 
-        personal growth - it demonstrates my ability to bridge cultures and technologies. I understand German work 
-        culture, appreciate the value of thoroughness and precision, and can contribute immediately to your team's 
-        collaborative environment while bringing fresh perspectives from my international research background.</p>
-        
-        <p>I am confident that my unique combination of German cultural affinity, AI/ML technical skills, and 
-        proven ability to thrive in international environments would make me a valuable addition to your team. 
-        I look forward to the opportunity to contribute to Actico's mission while further developing my skills 
-        in your innovative German work environment.</p>
-        
-        <p>Vielen Dank für Ihre Zeit und Überlegung. I eagerly await the opportunity to discuss how my passion 
-        for both German culture and artificial intelligence can contribute to Actico's continued success.</p>
-        
-        <p><strong>Mit freundlichen Grüßen,</strong><br>
-        [Your Name]</p>
-    </div>
-    """, unsafe_allow_html=True)
-    
     # Interactive feedback section
-    st.markdown("### 📝 Cover Letter Highlights")
     col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("German Cultural References", "8", "Authentic Connection")
