@@ -362,21 +362,12 @@ elif current_section == "📝 Cover Letter":
     with col1:
         st.metric("Proven Cultural Alignment with Germany", "8", "Authentic Connection")
         st.write("As a PASCH scholar with a B1.2 Goethe-Institut certification and internship experience at Dr. Oetker, I have developed a strong understanding of German work culture, communication norms, and professional etiquette. This foundation enables me to integrate seamlessly into Actico's international environment.")
-        st.write("• B1.2 certification")
-        st.write("• Dr. Oetker internship")
-        st.write("• German work culture understanding")
     with col2:
-        st.metric("Technical Alignment", "High", "Perfect Match")
-        st.write("• AI/ML expertise")
-        st.write("• Decision automation focus")
-        st.write("• Research background")
-        st.write("• Practical applications")
+        st.metric("Technical Expertise in AI & Decision Intelligence", "High", "Perfect Match")
+        st.write("With hands-on experience in developing AI/ML systems—including a RAG system at DRDO and sentiment analysis pipelines—I bring deep technical skills that align with Actico’s focus on decision automation, intelligent software systems, and data-driven innovation.")
     with col3:
-        st.metric("Personal Touch", "Strong", "Memorable")
-        st.write("• Quatschköpfer group story")
-        st.write("• German song memories")
-        st.write("• International friendships")
-        st.write("• Cultural bridge-building")
+        st.metric("Cross-Cultural Collaboration & Global Perspective", "Strong", "Effective Global Teamwork")
+        st.write("My background includes active engagement in international student exchanges, multilingual communication, and building bridges across diverse cultures. This enhances my ability to collaborate effectively within global teams and contribute to Actico’s culturally inclusive and client-focused mission.")
 
 elif current_section == "🎯 Why Actico?":
     st.markdown('<h2 class="section-header">Why Actico is the Perfect Match</h2>', unsafe_allow_html=True)
