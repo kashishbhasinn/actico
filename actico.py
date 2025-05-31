@@ -361,9 +361,9 @@ elif current_section == "📝 Cover Letter":
     <div class="highlight-box">
         <h3>Sehr geehrte Damen und Herren,</h3>
         
-        <p> with great enthusiasm, I am writing to express my strong interest in the internship opportunity at Actico. 
+        With great enthusiasm, I am writing to express my strong interest in the internship opportunity at Actico. 
         As someone who has cultivated both technical expertise in AI/ML and a deep cultural connection to Germany, 
-        I believe I would bring a unique and valuable perspective to your innovative team. </p>
+        I believe I would bring a unique and valuable perspective to your innovative team.
         
         <p><strong>Ich habe eine besondere Verbindung zu Deutschland</strong> - this connection began in 2019 when I was 
         selected as a PASCH Scholar and spent a transformative summer in Sankt Peter-Ording. Living among international 
