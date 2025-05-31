@@ -359,18 +359,11 @@ elif current_section == "📝 Cover Letter":
     
     st.markdown("""
     <div class="highlight-box">
-        <h3>Sehr geehrte Damen und Herren,</h3>
+        <h3>Guten Tag</h3>
         
-        With great enthusiasm, I am writing to express my strong interest in the internship opportunity at Actico. 
-        As someone who has cultivated both technical expertise in AI/ML and a deep cultural connection to Germany, 
-        I believe I would bring a unique and valuable perspective to your innovative team.
+        As a Computer Science student specializing in AI & ML, I was thrilled to discover the opportunity at Actico. Your work in decision automation and AI-driven solutions aligns perfectly with my technical skills, but beyond that, I have a besondere Verbindung zu Deutschland that makes this application especially meaningful.
         
-        <p><strong>Ich habe eine besondere Verbindung zu Deutschland</strong> - this connection began in 2019 when I was 
-        selected as a PASCH Scholar and spent a transformative summer in Sankt Peter-Ording. Living among international 
-        peers from Vietnam, Thailand, and Singapore, achieving B1.2 German proficiency as "Quatschköpfer" (the happiest group!), 
-        and immersing myself in German culture shaped not only my language skills but also my appreciation for German 
-        precision, innovation, and collaborative work ethic. The memories of singing "An der Nordseeküste" with my camp 
-        friends and exploring Hamburg, Büsum, and Tönning remain vivid reminders of why Germany holds such a special place in my heart.</p>
+        In 2019, I attended a PASCH youth camp in Sankt Peter-Ording, where I immersed myself in German culture, earned the title "Quatscköpfer" (thanks to my B1.2 class! - the highest batch in the camp), and fell in love with An der Nordseeküste sing-alongs. A delayed flight gave me a day in Zurich, a serendipitous start to a journey that deepened my appreciation for German precision and Werwolf games that helped me understand teamwork. Amidst the monotony of quarantine, little did I know that my life was about to take an exciting turn when a notification popped up on my phone- ‘Congratulations! You have topped German FIT 2.’ As a previous PASCH Scholar, I eagerly anticipated yet another youth camp experience that would further enhance my intercultural skills. However, due to the pandemic, the camp was replaced with a practicum on Artificial Intelligence. This is where I discovered my passion for technology through the role of an AI apprentice that led me to pursue AI & ML engineering. I interned as a Product Design Intern at Dr. Oetker India where I collaborated with the design team to perform market research and create new logos for dips and sauces that increased viewership in the market. My 4+ internship experiences, coupled with my B2 level of German speaking, would help me understand the product, client requirements and communicate with my team.
         
         <p>My technical journey perfectly aligns with Actico's focus on intelligent automation and decision management. 
         As the FIT 2 German examination topper, I secured early recognition that led to a product internship at 
