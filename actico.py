@@ -337,7 +337,6 @@ elif current_section == "💼 Professional Experience":
             <p><strong>📅 Period:</strong> {exp['period']}</p>
             <p>{exp['description']}</p>
             
-            <h4>🎯 Key Achievements:</h4>
         </div>
         """, unsafe_allow_html=True)
         
