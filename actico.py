@@ -112,7 +112,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("### 📈 Quick Stats")
 st.sidebar.metric("German Proficiency", "B1.2", "PASCH Scholar")
 st.sidebar.metric("AI/ML Projects", "5+", "AWS Certified")
-st.sidebar.metric("Internships", "3", "IIM, DRDO, Dr. Oetker")
+st.sidebar.metric("Internships", "4+", "IIM Bangalore, DRDO, Dr. Oetker, Arogo AI IIT Kharagpur")
 
 # Main content based on navigation
 if current_section == "🏠 Home & Introduction":
