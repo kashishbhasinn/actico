@@ -385,42 +385,18 @@ elif current_section == "🎯 Why Actico?":
         {
             'title': '🇩🇪 German Team Culture Alignment',
             'description': 'My PASCH experience and cultural immersion have prepared me to seamlessly integrate with German work culture and communication styles. Having lived and learned in Germany, I understand the values of precision, collaboration, and innovation that drive German teams.',
-            'evidence': [
-                'B1.2 German language certification',
-                'Successful Dr. Oetker internship experience',
-                'Cultural immersion in Sankt Peter-Ording',
-                'Understanding of German business methodology'
-            ]
         },
         {
             'title': '🤖 AI/ML Technical Expertise Match',
             'description': 'Actico\'s focus on intelligent decision management perfectly aligns with my expertise in AI/ML, federated learning, and ethical AI considerations. My background spans from theoretical research to practical applications.',
-            'evidence': [
-                'AWS DeepRacer reinforcement learning mastery',
-                'AISS 2023 advanced research participation',
-                'Federated learning and coresets knowledge',
-                'Real-world applications at IIM and DRDO'
-            ]
         },
         {
             'title': '🔄 Decision Automation Passion',
             'description': 'My research background and understanding of AI applications in business contexts align perfectly with Actico\'s automated decision-making solutions. I\'ve seen firsthand how intelligent systems can transform organizations.',
-            'evidence': [
-                'Business intelligence research at IIM',
-                'Defense technology automation at DRDO',
-                'Product development insights from Dr. Oetker',
-                'Strategic thinking and analysis skills'
-            ]
         },
         {
             'title': '🌟 Unique Value Proposition',
             'description': 'The combination of German cultural understanding, international perspective, and cutting-edge AI/ML skills creates a unique profile that can contribute to Actico\'s global vision while respecting German operational excellence.',
-            'evidence': [
-                'Cross-cultural communication expertise',
-                'International research collaboration experience',
-                'Bridge between German and global perspectives',
-                'Fresh ideas from diverse background'
-            ]
         }
     ]
     
@@ -429,14 +405,10 @@ elif current_section == "🎯 Why Actico?":
         <div class="highlight-box">
             <h3>{reason['title']}</h3>
             <p>{reason['description']}</p>
-            <h4>🔍 Supporting Evidence:</h4>
         </div>
         """, unsafe_allow_html=True)
         
-        for evidence in reason['evidence']:
-            st.write(f"• {evidence}")
-        st.markdown("---")
-    
+        
     # Final value proposition
     st.markdown("""
     <div class="highlight-box">
@@ -450,8 +422,6 @@ elif current_section == "🎯 Why Actico?":
             <li><strong>Rapid Integration:</strong> Pre-existing cultural understanding means faster onboarding</li>
         </ul>
         
-        <p><strong>Long-term Vision:</strong> Growing with Actico while contributing to the evolution of intelligent 
-        decision-making systems, combining German engineering excellence with global AI innovation.</p>
     </div>
     """, unsafe_allow_html=True)
     
