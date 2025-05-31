@@ -32,6 +32,7 @@ st.markdown("""
         border-radius: 10px;
         border-left: 5px solid #D4AF37;
         margin: 1rem 0;
+        color: black;
     }
     .german-quote {
         font-style: italic;
