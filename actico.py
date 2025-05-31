@@ -341,8 +341,6 @@ elif current_section == "💼 Professional Experience":
         </div>
         """, unsafe_allow_html=True)
         
-        for achievement in exp['achievements']:
-            st.write(f"• {achievement}")
         
         st.markdown(f"**🛠️ Skills Developed:** {', '.join(exp['skills'])}")
         st.markdown("---")
