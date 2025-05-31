@@ -360,8 +360,8 @@ elif current_section == "📝 Cover Letter":
     # Interactive feedback section
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.metric("German Cultural References", "8", "Authentic Connection")
-        st.write("• PASCH Scholar experience")
+        st.metric("Proven Cultural Alignment with Germany", "8", "Authentic Connection")
+        st.write("As a PASCH scholar with a B1.2 Goethe-Institut certification and internship experience at Dr. Oetker, I have developed a strong understanding of German work culture, communication norms, and professional etiquette. This foundation enables me to integrate seamlessly into Actico's international environment.")
         st.write("• B1.2 certification")
         st.write("• Dr. Oetker internship")
         st.write("• German work culture understanding")
