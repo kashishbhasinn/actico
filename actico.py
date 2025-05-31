@@ -116,7 +116,7 @@ st.sidebar.metric("Internships", "4+", "IIM Bangalore, DRDO, Dr. Oetker, Arogo A
 
 # Main content based on navigation
 if current_section == "🏠 Home & Introduction":
-    st.markdown('<h1 class="main-header">Welcome to My Actico Portfolio</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">Kashish Bhasin</h1>', unsafe_allow_html=True)
     
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
