@@ -316,7 +316,7 @@ elif current_section == "💼 Professional Experience":
             'Gained insights into German business methodology',
             'Contributed to product development processes',
             'Built cross-cultural communication expertise'
-            ],
+            ,
             'skills': ['Product Development', 'German Business Culture', 'Cross-cultural Communication', 'Project Management']
         },
         {
