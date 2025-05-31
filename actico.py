@@ -312,11 +312,6 @@ elif current_section == "💼 Professional Experience":
             'role': 'Product Intern',
             'period': '12th Grade (2021)',
             'description': 'Secured prestigious product internship through Goethe Institute connections, applying German language skills and cultural understanding in professional setting. Worked on product development initiatives while experiencing German corporate culture firsthand.',
-            'Applied German language skills in professional context',
-            'Gained insights into German business methodology',
-            'Contributed to product development processes',
-            'Built cross-cultural communication expertise'
-            ,
             'skills': ['Product Development', 'German Business Culture', 'Cross-cultural Communication', 'Project Management']
         },
         {
@@ -324,12 +319,6 @@ elif current_section == "💼 Professional Experience":
             'role': 'Research Intern',
             'period': 'Recent (2023)',
             'description': 'Conducted advanced research in management and technology intersection, developing analytical and strategic thinking capabilities. Focused on AI applications in business decision-making and organizational efficiency.',
-            
-            'Conducted comprehensive market research analysis',
-            'Developed strategic frameworks for technology adoption',
-            'Collaborated with faculty on research publications',
-            'Applied AI/ML concepts to business problems'
-            ,
             'skills': ['Research Methodology', 'Data Analysis', 'Strategic Thinking', 'Business Intelligence']
         },
         {
@@ -337,12 +326,6 @@ elif current_section == "💼 Professional Experience":
             'role': 'Technical Intern',
             'period': 'Recent (2024)',
             'description': 'Contributed to defense technology research, applying AI/ML knowledge to critical national security applications. Worked on advanced algorithms and security protocols while maintaining highest confidentiality standards.',
-            
-            'Applied AI/ML to defense technology challenges',
-            'Developed secure algorithm implementations',
-            'Collaborated with senior research scientists',
-            'Contributed to national security initiatives'
-            ,
             'skills': ['Defense Technology', 'AI Applications', 'Security Protocols', 'Algorithm Development']
         }
     ]
